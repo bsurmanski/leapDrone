@@ -30,5 +30,5 @@ The yaw is controlled by moving the right hand forward or backward relative
 to the left hand.
 
 ## Credits
-Robert Wood
-Brandon Surmanski
+Robert Wood (http://github.com/Doowybbob)
+Brandon Surmanski (http://github.com/bsurmanski)
