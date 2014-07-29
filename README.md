@@ -28,3 +28,7 @@ raising the right hand higher or lower relative to the left hand.
 
 The yaw is controlled by moving the right hand forward or backward relative
 to the left hand.
+
+## Credits
+Robert Wood
+Brandon Surmanski
